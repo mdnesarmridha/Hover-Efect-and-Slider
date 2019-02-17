@@ -1,9 +1,10 @@
 # Hover-Efect-and-Slider
-#//animated effect js
+
 (function($) {
 
 $(document).ready(function(){
   "use strict";
+#//animated effect js
   //Main Slider
   var owl = $('.single-slider-area');
   owl.owlCarousel({
@@ -76,7 +77,7 @@ $(document).ready(function(){
   });
 });
 
-#// scroll menu hover effect 
+#// scroll menu hover effect js
 	// Cache selectors
 	var lastId,
 	    topMenu = $(".main-menu-area");
