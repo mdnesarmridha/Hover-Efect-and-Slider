@@ -1,5 +1,5 @@
 # Hover-Efect-and-Slider
-#animated effect js
+#//animated effect js
 (function($) {
 
 $(document).ready(function(){
@@ -76,7 +76,7 @@ $(document).ready(function(){
   });
 });
 
-// scroll menu hover effect 
+#// scroll menu hover effect 
 	// Cache selectors
 	var lastId,
 	    topMenu = $(".main-menu-area");
